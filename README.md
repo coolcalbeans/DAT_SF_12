@@ -46,11 +46,17 @@ Tentative Course Outline
 	- [Clustering: Hierarchical Clustering](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture15.pdf) (PDF Slides)
 8. Probability, A/B Tests & Statistical Significance
 	- [Probability and Statistics](https://www.khanacademy.org/math/probability) (Khan Academy Course)
-9. Linear Regression, ANOVA
+	- [Visualizing Distributions of Data](http://stanford.edu/~mwaskom/software/seaborn/tutorial/plotting_distributions.html)
+9. Multiple Linear Regression and ANOVA
+	- [Plotting Linear Models using Seaborn](http://stanford.edu/~mwaskom/software/seaborn/tutorial/quantitative_linear_models.html)
+	- [Why ANOVA and Linear Regression are the Same Analysis](http://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
+	- [Linear Regresion and ANOVA](http://www.math.smith.edu/r/excerpt-4.pdf) (Examples in R)
 10. Project Elevator Pitches
-11. Logistic Regression, Regularization
+11. Logistic Regression and Generlized Linear Models
+	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
 12. Time Series Analysis & Midterm Review
 13. Principal Components Analysis
+	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
 14. Text Mining & Naïve Bayes
 15. Nonlinear Models
 16. Grid Search and Parameter Selection
@@ -60,3 +66,24 @@ Tentative Course Outline
 20. Final Project Presentations (12 min. each)
 21. Final Project Presentations (12 min. each)
 22. Future Directions 
+
+Project Schedule
+----------------
+
+| Date | Due | Returned |  
+| ---- | -------- | --- |
+| 1/22 | Preliminary Project Proposals Due (3-4 sentences) | |
+| 1/27 | Homework 1 |                                   |
+| 1/29 |            | EiR Feedback on Project Proposals |
+| 2/3  |            | EiR Feedback on Homework 1           |
+| 2/5  | Formal Proposals (including ***data*** and methods chosen) | |
+| 2/10 | Homework 2 Assigned|                                  |
+| 2/12 |            | EiR Feedback on Formal Proposals |
+| 2/17 | Homework 2 Due and <br>**Project Elevator Pitch in class (4 minutes each)** | | 
+| 2/19 | Homework 3 Assigned | Project Live on Github | |
+| 2/24 | Homework 3 Due | EiR Feedback on Homework 2 |
+| 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
+| 3/3  | Peer Feedback of Homework 3 | Peer Feedback on Homework 3 |
+| 3/10 | ***Midterm Assessment Due*** | |
+| 3/17 | At least one working model | |
+| 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
