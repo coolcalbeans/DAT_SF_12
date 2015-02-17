@@ -79,8 +79,8 @@ Project Schedule
 | 2/5  | Formal Proposals (including ***data*** and methods chosen) | |
 | 2/10 | Homework 2 Assigned|                                  |
 | 2/12 |            | EiR Feedback on Formal Proposals |
-| 2/17 | Homework 2 Due and <br>**Project Elevator Pitch in class (4 minutes each)** | | 
-| 2/19 | Homework 3 Assigned | Project Live on Github | |
+| 2/17 | Homework 2 Due | | 
+| 2/19 | Homework 3 Assigned  and <br>**Project Elevator Pitch in class (4 minutes each)** | Project Live on Github | |
 | 2/24 | Homework 3 Due | EiR Feedback on Homework 2 |
 | 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
 | 3/3  | Peer Feedback of Homework 3 | Peer Feedback on Homework 3 |
