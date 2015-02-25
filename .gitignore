@@ -1,2 +1,5 @@
 *.pyc
 .ipynb_checkpoints
+datasets/20news-bydate-*
+data/db/*
+db/*
