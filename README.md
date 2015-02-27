@@ -95,7 +95,7 @@ Project Schedule
 Student Project Repos:
 ----------------------
 | Student | Repo |
-| Ajay	Anand	| [sryballin/GeneralAssembly_DS](http://github.com/sryballin/GeneralAssembly_DS) |
+| Ajay	Anand	| [sryballin/GeneralAssembly-DS](https://github.com/skyballin/GeneralAssembly-DS) |
 | Zachary	Cousens	| [zfcousens/DAT_SF_12/tree/gh-pages/Project](http://github.com/zfcousens/DAT_SF_12/tree/gh-pages/Project) |
 | Carmen	Diaz Echauri	| [cde/?](http://github.com/cde/?) |
 | Deepthi	Duddempudi	| [DeepthiGA/Project](http://github.com/DeepthiGA/Project) |
@@ -115,4 +115,4 @@ Student Project Repos:
 | Bing	Wang	| [bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb](http://github.com/bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb) |
 | Jaime	Williams	| [jawilliams3000/OaklandCrime](http://github.com/jawilliams3000/OaklandCrime) |
 | David	Yerrington	| [dyerrington/Rapstats](http://github.com/dyerrington/Rapstats) |
- 
+| Matt  Jones   | [jonesmatt415/NCAA-Prediction-Project-](https://github.com/jonesmatt415/NCAA-Prediction-Project-) | 
