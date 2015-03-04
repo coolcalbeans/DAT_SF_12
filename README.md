@@ -56,12 +56,12 @@ Tentative Course Outline
 	- [Explaining Odds Ratios](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 11. Project Elevator Pitches
 	- See _Student Project Repos_ below
-12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review
+12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review - Part I
 	- [Receiver operating characteristic](http://en.wikipedia.org/wiki/Receiver_operating_characteristic) (wikipedia article)
 	- [Receiver Operating Characteristic (ROC)](http://scikit-learn.org/stable/auto_examples/plot_roc.html) (scikit-learn documentation)
-13. Principal Components Analysis
+13. Naïve Bayes, Cross Validation, ROC, AUC - Part II
+14. Principal Components Analysis
 	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
-14. TBD
 15. Nonlinear Models
 16. Grid Search and Parameter Selection
 17. Bringing it Together
@@ -84,10 +84,10 @@ Project Schedule
 | 2/10 | Homework 2 Assigned|                                  |
 | 2/12 |            | EiR Feedback on Formal Proposals |
 | 2/17 | Homework 2 Due | | 
-| 2/19 | Homework 3 Assigned  and <br>**Project Elevator Pitch in class (4 minutes each)** | Project Live on Github | |
-| 2/24 | Homework 3 Due | EiR Feedback on Homework 2 |
+| 2/19 | **Project Elevator Pitch in class (4 minutes each)** | Project Live on Github | |
+| 2/24 |  | Homework 3 Assigned |
 | 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
-| 3/3  | Peer Feedback of Homework 3 | Peer Feedback on Homework 3 |
+| 3/3  |  | Midterm Assessment Posted|
 | 3/10 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
