@@ -1,5 +1,6 @@
 *.pyc
 .ipynb_checkpoints
+Classification_data/*
 datasets/20news-bydate-*
 data/db/*
 db/*
