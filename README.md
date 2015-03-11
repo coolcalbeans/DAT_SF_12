@@ -54,6 +54,7 @@ Tentative Course Outline
 10. Logistic Regression and Generlized Linear Models
 	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
 	- [Explaining Odds Ratios](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
+	- [GLM for Poisson Data](http://www.biostat.umn.edu/~dipankar/bmtry711.11/lecture_13.pdf)
 11. Project Elevator Pitches
 	- See _Student Project Repos_ below
 12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review - Part I
@@ -62,11 +63,12 @@ Tentative Course Outline
 13. Naïve Bayes, Cross Validation, ROC, AUC - Part II
 14. Principal Components Analysis
 	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
-15. Nonlinear Models
+15. Decision Trees and Forests
+    - [Decision Tree Learning](http://en.wikipedia.org/wiki/Decision_tree_learning) (Wikipedia article)
     - [Decision Trees](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_decision_trees.pdf)
     - [How to construct a tree](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_how_to_construct_a_tree.pdf)
     - [Information gain](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_information_gain.pdf)
-16. Grid Search and Parameter Selection
+16. Support Vector Machines
 17. Bringing it Together
 18. Final Project Working Session
 19. Final Project Working Session
