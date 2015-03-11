@@ -63,6 +63,9 @@ Tentative Course Outline
 14. Principal Components Analysis
 	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
 15. Nonlinear Models
+    - [Decision Trees](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_decision_trees.pdf)
+    - [How to construct a tree](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_how_to_construct_a_tree.pdf)
+    - [Information gain](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_information_gain.pdf)
 16. Grid Search and Parameter Selection
 17. Bringing it Together
 18. Final Project Working Session
@@ -88,7 +91,7 @@ Project Schedule
 | 2/24 |  | Homework 3 Assigned |
 | 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
 | 3/3  |  | Midterm Assessment Posted|
-| 3/10 | ***Midterm Assessment Due*** | |
+| 3/12 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
 
