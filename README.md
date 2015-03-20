@@ -23,14 +23,19 @@ Tentative Course Outline
 ------------------------
 
 1. Intro to Data Science, Relational Databases & SQL
+    - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 2. Getting started with IPython & Git
 	- [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
+    - [SourceTree](https://www.atlassian.com/software/sourcetree/overview)
+    - [What’s new in IPython](http://ipython.org/ipython-doc/3/whatsnew/version3.html)
 3. APIs and semi-structured data
 	- [Mining Twitter](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/__Chapter%201%20-%20Mining%20Twitter%20%28Full-Text%20Sampler%29.ipynb)
 4. IPython.parallel & StarCluster
 	- [Parallel Computing with IPython](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/21_IPythonParallel)
+    - [AWS Provisining](http://nbviewer.ipython.org/github/ga-students/DAT_SF_11/blob/master/labs/lab_18/AWS-Provisioning-IPython.ipynb)
 5. Hadoop Distributed File System and Spark
 	- [AMP Camp 5 Exercises](http://ampcamp.berkeley.edu/5/exercises/)
+    - [Announcing Spark 1.3](https://databricks.com/blog/2015/03/13/announcing-spark-1-3.html)
 6. Intro to ML: k-Nearest Neighbor Classification
 	- [Nearest Neighbor Methods](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture11.pdf) (PDF Slides)
 	- [k-Nearest Neighbor Classification Algorithm](https://www.youtube.com/watch?v=4ObVzTuFivY) (YouTube Video)
@@ -41,37 +46,61 @@ Tentative Course Outline
 	- [Should I normalize/standardize/rescale the data?](http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html)
 7. Clustering: Hierarchical and K-Means
 	- [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/index.html) (web tutorial)
+    - [Hierarchical Clustering in Action](https://joyofdata.shinyapps.io/hclust-shiny/)
 	- [K-means](http://scikit-learn.org/stable/modules/clustering.html#k-means) (scikit-learn documentation)
 	- [Clustering: k-means](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture14.pdf) (PDF Slides)
 	- [Clustering: Hierarchical Clustering](http://cs.nyu.edu/~dsontag/courses/ml13/slides/lecture15.pdf) (PDF Slides)
 8. Probability, A/B Tests & Statistical Significance
 	- [Probability and Statistics](https://www.khanacademy.org/math/probability) (Khan Academy Course)
+    - [What’s a good value for R-squared?](http://people.duke.edu/~rnau/rsquared.htm)
 	- [Visualizing Distributions of Data](http://stanford.edu/~mwaskom/software/seaborn/tutorial/plotting_distributions.html)
 9. Multiple Linear Regression and ANOVA
 	- [Plotting Linear Models using Seaborn](http://stanford.edu/~mwaskom/software/seaborn/tutorial/quantitative_linear_models.html)
 	- [Why ANOVA and Linear Regression are the Same Analysis](http://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
 	- [Linear Regresion and ANOVA](http://www.math.smith.edu/r/excerpt-4.pdf) (Examples in R)
+    - [Multiple (Linear) Regression ](http://www.statmethods.net/stats/regression.html) (Examples in R)
 10. Logistic Regression and Generlized Linear Models
 	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
 	- [Explaining Odds Ratios](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
 	- [GLM for Poisson Data](http://www.biostat.umn.edu/~dipankar/bmtry711.11/lecture_13.pdf)
+    - [Logistic Regression](scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) (scikit-learn documentation)
+    - [sklearn logistic regression with unbalanced classes](http://stackoverflow.com/questions/14863125/sklearn-logistic-regression-with-unbalanced-classes)
 11. Project Elevator Pitches
 	- See _Student Project Repos_ below
 12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review - Part I
+    - [Bayes' Theorem with Lego](http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+    - [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
+    - [Doing Naive Bayes Classification](http://nbviewer.ipython.org/github/arnicas/NLP-in-Python/blob/master/4.%20Naive%20Bayes%20Classification.ipynb)
 	- [Receiver operating characteristic](http://en.wikipedia.org/wiki/Receiver_operating_characteristic) (wikipedia article)
 	- [Receiver Operating Characteristic (ROC)](http://scikit-learn.org/stable/auto_examples/plot_roc.html) (scikit-learn documentation)
 13. Naïve Bayes, Cross Validation, ROC, AUC - Part II
 14. Principal Components Analysis
 	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
+    - [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)
+    - [Should you apply PCA to your data?](http://blog.explainmydata.com/2012/07/should-you-apply-pca-to-your-data.html)
 15. Decision Trees and Forests
     - [Decision Tree Learning](http://en.wikipedia.org/wiki/Decision_tree_learning) (Wikipedia article)
     - [Decision Trees](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_decision_trees.pdf)
     - [How to construct a tree](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_how_to_construct_a_tree.pdf)
     - [Information gain](https://d396qusza40orc.cloudfront.net/mmds/lecture_slides/week6_information_gain.pdf)
 16. Support Vector Machines
-17. Bringing it Together
-18. Final Project Working Session
-19. Final Project Working Session
+    - [Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) (scikit-learn documentation)
+    - [A User's Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf)
+17. Scaling Out
+    - [numpy.memmap](http://docs.scipy.org/doc/numpy/reference/generated/numpy.memmap.html)
+    - [Feature Hashing](http://en.wikipedia.org/wiki/Feature_hashing)
+    - [HashingVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html)
+    - [Vectorizing a large text corpus with the hashing trick](http://scikit-learn.org/stable/modules/feature_extraction.html#vectorizing-a-large-text-corpus-with-the-hashing-trick)
+    - [Pyrallel - Parallel Data Analytics in Python](https://github.com/pydata/pyrallel)
+    - [Online Passive-Aggressive Algorithms](http://jmlr.csail.mit.edu/papers/volume7/crammer06a/crammer06a.pdf)
+18. Recommendation Systems
+    - [Machine Learning & Recommender Systems @ Netflix Scale](http://www.slideshare.net/xamat/qcon-sf-2013-machine-learning-recommender-systems-netflix-scale)
+19. Visualization
+    - [Chart Suggestions—A Thought-Starter](http://extremepresentation.typepad.com/blog/files/choosing_a_good_chart.pdf)
+    - [Seaborn: statistical data visualization](http://stanford.edu/~mwaskom/software/seaborn/)
+    - [Welcome to Bokeh](http://bokeh.pydata.org/en/latest/)
+    - [ggplot for python](http://blog.yhathq.com/posts/ggplot-for-python.html)
+    - [plotly](https://plot.ly/)
 20. Final Project Presentations (12 min. each)
 21. Final Project Presentations (12 min. each)
 22. Future Directions 
